@@ -1,0 +1,57 @@
+{
+  "store_id": 939,
+  "item_nbr": 423381,
+  "depto_nbr": "90",
+  "upc_nbr": "7809367",
+  "category_nbr": "8427",
+  "categorization": "Lácteos y frescos",
+  "description": "CHANDELLE CHOCOLATE ",
+  "brand": "CHANDELLE",
+  "content": "130GR",
+  "pallet_ti_qty": 9,
+  "pallet_hi_qty": 16,
+  "vnpk_qty": 20,
+  "steps": [
+    {
+      "q_min": 1,
+      "q_mul": 1,
+      "family_id": null,
+      "final_pvp": 429,
+      "promotion": {
+        "name": "Nx$",
+        "type": 5,
+        "campaign": "Lista 4",
+        "end_date": "2020-04-21",
+        "priority": 91,
+        "start_date": "2020-03-25"
+      },
+      "sell_type": 1,
+      "step_number": 1,
+      "total_units": 1,
+      "silent_seller": "",
+      "selling_format": 1,
+      "units_per_selling_format": 1
+    },
+    {
+      "q_min": 5,
+      "q_mul": 1,
+      "family_id": null,
+      "final_pvp": 2000,
+      "promotion": {
+        "name": "Nx$",
+        "type": 5,
+        "campaign": "Lista 4",
+        "end_date": "2020-04-21",
+        "priority": 91,
+        "start_date": "2020-03-25"
+      },
+      "sell_type": 1,
+      "step_number": 2,
+      "total_units": 5,
+      "silent_seller": "",
+      "selling_format": 1,
+      "units_per_selling_format": 5
+    }
+  ],
+  "objectID": "423381"
+}

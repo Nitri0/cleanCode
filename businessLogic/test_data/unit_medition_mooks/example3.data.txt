@@ -1,0 +1,37 @@
+{
+  "store_id": 939,
+  "item_nbr": 421702,
+  "depto_nbr": "2",
+  "upc_nbr": "789152803935",
+  "category_nbr": "9255",
+  "categorization": "Limpieza y cuidado personal",
+  "description": "PASTA DENTAL JUNIOR",
+  "brand": "DENTO",
+  "content": "50GR",
+  "pallet_ti_qty": 14,
+  "pallet_hi_qty": 7,
+  "vnpk_qty": 72,
+  "steps": [
+    {
+      "q_min": 1,
+      "q_mul": 12,
+      "family_id": null,
+      "final_pvp": 430,
+      "promotion": {
+        "name": "PRECIO BASE",
+        "type": 3,
+        "campaign": "Precio Base",
+        "end_date": null,
+        "priority": 0,
+        "start_date": "2018-11-29"
+      },
+      "sell_type": 3,
+      "step_number": 1,
+      "total_units": 12,
+      "silent_seller": "",
+      "selling_format": 6,
+      "units_per_selling_format": 12
+    }
+  ],
+  "objectID": "421702"
+}

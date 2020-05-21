@@ -1,0 +1,37 @@
+{
+  "store_id": 939,
+  "item_nbr": 423251,
+  "depto_nbr": "1",
+  "upc_nbr": "780223007002",
+  "category_nbr": "8351",
+  "categorization": "Abarrotes",
+  "description": "CHOCOLATE TRENCITO",
+  "brand": "NESTLE",
+  "content": "150GR",
+  "pallet_ti_qty": 30,
+  "pallet_hi_qty": 11,
+  "vnpk_qty": 14,
+  "steps": [
+    {
+      "q_min": 3,
+      "q_mul": 1,
+      "family_id": null,
+      "final_pvp": 1085,
+      "promotion": {
+        "name": "REBAJA",
+        "type": 2,
+        "campaign": "Lista 4",
+        "end_date": "2020-04-21",
+        "priority": 91,
+        "start_date": "2020-03-25"
+      },
+      "sell_type": 1,
+      "step_number": 1,
+      "total_units": 3,
+      "silent_seller": "",
+      "selling_format": 1,
+      "units_per_selling_format": 1
+    }
+  ],
+  "objectID": "423251"
+}

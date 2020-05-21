@@ -1,0 +1,37 @@
+{
+  "store_id": 939,
+  "item_nbr": 223524,
+  "depto_nbr": "14",
+  "upc_nbr": "471095559392",
+  "category_nbr": "8382",
+  "categorization": "Espacio gastronómico",
+  "description": "FRASCO 1LT",
+  "brand": "HAUS",
+  "content": "1UN",
+  "pallet_ti_qty": 6,
+  "pallet_hi_qty": 3,
+  "vnpk_qty": 36,
+  "steps": [
+    {
+      "q_min": 1,
+      "q_mul": 1,
+      "family_id": null,
+      "final_pvp": 490,
+      "promotion": {
+        "name": "PRECIO BASE",
+        "type": 3,
+        "campaign": "Precio Base",
+        "end_date": null,
+        "priority": 0,
+        "start_date": "2018-11-29"
+      },
+      "sell_type": 1,
+      "step_number": 1,
+      "total_units": 1,
+      "silent_seller": "",
+      "selling_format": 1,
+      "units_per_selling_format": 1
+    }
+  ],
+  "objectID": "223524"
+}

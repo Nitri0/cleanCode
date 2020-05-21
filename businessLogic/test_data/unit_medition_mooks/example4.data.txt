@@ -1,0 +1,37 @@
+{
+  "store_id": 939,
+  "item_nbr": 262550,
+  "depto_nbr": "14",
+  "upc_nbr": "2303376",
+  "category_nbr": "8382",
+  "categorization": "Espacio gastronómico",
+  "description": "FRASCO 500ML",
+  "brand": "HAUS",
+  "content": "1UN",
+  "pallet_ti_qty": 5,
+  "pallet_hi_qty": 6,
+  "vnpk_qty": 48,
+  "steps": [
+    {
+      "q_min": 1,
+      "q_mul": 1,
+      "family_id": null,
+      "final_pvp": 464,
+      "promotion": {
+        "name": "PRECIO BASE",
+        "type": 3,
+        "campaign": "Precio Base",
+        "end_date": null,
+        "priority": 0,
+        "start_date": "2018-11-29"
+      },
+      "sell_type": 1,
+      "step_number": 1,
+      "total_units": 1,
+      "silent_seller": "",
+      "selling_format": 7,
+      "units_per_selling_format": 1
+    }
+  ],
+  "objectID": "262550"
+}
